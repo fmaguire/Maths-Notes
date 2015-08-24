@@ -1,3 +1,3 @@
 Summary.md
 Notes__.md
-Vectors_Basic_operations_vec_a__.md
+Vectors.md

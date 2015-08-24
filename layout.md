@@ -1,3 +1,4 @@
 Summary.md
 Notes__.md
 Vectors.md
+Dot_product_Basics_Definition_vec__.md

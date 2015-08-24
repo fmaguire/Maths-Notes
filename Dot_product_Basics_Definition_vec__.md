@@ -13,7 +13,6 @@
 
 - Scale vector's magnitude to 1 to get unit vector \(\hat{a} = \frac{\vec{a}}{||\vec{a}||}\)
 - \(\vec{a} = \hat{a} \iff ||\vec{a}||=1\)
-- \(\vec{a} . \hat{a} = cos\theta\)
 
 ### Cauchy-Schwartz inequality
 
@@ -24,3 +23,5 @@
 
 - Definition:
 - Proof:
+
+  

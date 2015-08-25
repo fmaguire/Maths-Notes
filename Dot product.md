@@ -16,13 +16,19 @@
 
 ### Cauchy-Schwartz inequality
 
-- Definition: 
-- Proof:
+Definition: 
+- \(\vec{a} . \vec{b} \leq ||\vec{a}|| ||\vec{b}||\)
+- \vec{a} . \vec{b} = ||\vec{a}||||\vec{b}|| \iff \vec{a} = c\vec{b}\) i.e. collinear
+
+Proof:
+- 
+- 
 
 ### Triangle inequality
 
-- Definition:
+- Definition: \(||\vec{a} + \vec{b}|| \leq ||\vec{a}||||\vec{b}||\)
 - Proof:
 
+  
   
   

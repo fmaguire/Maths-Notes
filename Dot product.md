@@ -17,6 +17,7 @@
 ### Cauchy-Schwartz inequality
 
 Definition: 
+
 - Norm of the dot product of two vectors is less than or equal to the dot product of the norms of the vectors
 - \(|\vec{a} . \vec{b}| \leq ||\vec{a}|| . ||\vec{b}\)
 - \(|vec{a} . \vec{b}| = ||\vec{a}|| . ||\vec{b}|| \iff \vec{a} = c\vec{b}\) i.e. collinear

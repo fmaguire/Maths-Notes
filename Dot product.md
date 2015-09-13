@@ -22,6 +22,7 @@ Definition:
 - \(|vec{a} . \vec{b}| = ||\vec{a}|| . ||\vec{b}|| \iff \vec{a} = c\vec{b}\) i.e. collinear
 
 Proof:
+
 - Expand: \(|a_0 b_0 + a_1 b_1 + ... + a_n b_n | \leq \sqrt{a^2_0 + a^2_1 + ... + a^2_n}\sqrt{b^2_0 + b^2_1 + ... b^2_n}\)
 - Therefore: \(|a+b|^2 = (a+b) . (b+a) = a.a + b.b + 2a.b = (|a| + |b|)^2\)
 - \(|a|^2 + |b|^2 + 2a.b \leq |a|^2 + |b|^2 + 2|a||b| = (|a| + |b|)^2\)

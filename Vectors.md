@@ -19,7 +19,7 @@
 ### Spans and vectorspaces
 
 - Vectorspaces are defined by span of a set of vectors 
-- \(\text{Span}(\vec{a},\vec{b}) = \{\alpha\vec{b} + \beta\vec{b}, \forall \alpha,\beta \in \text{scalar}\}\)
+- \(\text{Span}(\vec{a},\vec{b}) = \{\alpha\vec{b} + \beta\vec{b}, \forall \alpha,\beta \in \mathbb{R}\}\)
 - Geometric interpretation: space defined by number of linearly independent vectors i.e. 1 independent vector = line, 2 = 2d plane, 3 = 3d place etc.
 
 

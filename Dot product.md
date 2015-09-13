@@ -17,7 +17,7 @@
 ### Cauchy-Schwartz inequality
 
 Definition: 
-- Length of the sum of two vectors is less than or equal to the sum of the lengths of the vectors
+- Norm of the dot product of two vectors is less than or equal to the dot product of the norms of the vectors
 - \(|\vec{a} . \vec{b}| \leq ||\vec{a}|| . ||\vec{b}\)
 - \(|vec{a} . \vec{b}| = ||\vec{a}|| . ||\vec{b}|| \iff \vec{a} = c\vec{b}\) i.e. collinear
 
@@ -30,8 +30,8 @@ Proof:
 
 ### Triangle inequality
 
-- Definition: \(||\vec{a} + \vec{b}|| \leq ||\vec{a}||||\vec{b}||\)
-- Proof:
+- Definition: \(||\vec{a} + \vec{b}|| \leq ||\vec{a}|| + ||\vec{b}||\)
+- The norm of the sum of two vectors is at most as large as the sum of the norms of the two vectors
 
   
   
